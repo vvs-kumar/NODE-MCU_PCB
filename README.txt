@@ -1,2 +1,2 @@
-This PDF contains the pcb layout  of the above mentioned Circuit.
+This PDF contains the PCB layout of the above mentioned Circuit.
 
